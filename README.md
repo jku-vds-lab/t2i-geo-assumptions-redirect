@@ -1,2 +1,2 @@
-# coral-redirect
-temporary redirect from coral.app.jku-vds-lab.at to coral.caleydoapp.org
+# t2i-geo-assumptions-redirect
+temporary redirect from t2i-geo-assumptions.jku-vds-lab.at to https://promptswontsaveyou.dev
